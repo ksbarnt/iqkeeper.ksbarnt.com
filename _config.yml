@@ -48,11 +48,11 @@ features                                  :
     description                           : All scores are stored on your device, and there's no need for accounts or logins.
     fontawesome_icon_name                 : user-lock
 
-  - title                                 : Coming Soon! Export Scores
+  - title                                 : Export Scores
     description                           : Export scores for further analysis or to include in your Engineering Notebook.
     fontawesome_icon_name                 : file-export
 
-  - title                                 : Coming Soon! Link Scores
+  - title                                 : Link Scores
     description                           : Link manually entered scores including breakdowns to Robot Events match records.
     fontawesome_icon_name                 : link
   
